@@ -1,0 +1,9 @@
+IN-USE  BSSID              SSID                          MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+[32m [0m       [32m50:95:51:D8:17:E6[0m  [32mIZZI-5587-5G[0m                  [32mInfra[0m  [32m36[0m    [32m270 Mbit/s[0m  [32m95[0m      [32m▂▄▆█[0m  [32mWPA2[0m      
+[32m*[0m       [33m58:23:8C:31:74:75[0m  [33mHOME-7475[0m                     [33mInfra[0m  [33m1[0m     [33m195 Mbit/s[0m  [33m59[0m      [33m▂▄▆_[0m  [33mWPA1 WPA2[0m 
+[35m [0m       [35m00:E0:20:7C:7A:1D[0m  [35mHOME-7475_Ext[0m                 [35mInfra[0m  [35m1[0m     [35m130 Mbit/s[0m  [35m47[0m      [35m▂▄__[0m  [35mWPA2[0m      
+[35m [0m       [35mF8:D1:11:51:4F:5A[0m  [35mTP-LINK_514F5A[0m                [35mInfra[0m  [35m6[0m     [35m0 Mbit/s[0m    [35m47[0m      [35m▂▄__[0m  [35mWPA1 WPA2[0m 
+[35m [0m       [35m4C:12:65:00:8A:B1[0m  [35mIZZI-AE9C[0m                     [35mInfra[0m  [35m6[0m     [35m195 Mbit/s[0m  [35m44[0m      [35m▂▄__[0m  [35mWPA2[0m      
+[35m [0m       [35mEC:A9:40:82:43:75[0m  [35mIZZI-0114[0m                     [35mInfra[0m  [35m11[0m    [35m405 Mbit/s[0m  [35m44[0m      [35m▂▄__[0m  [35mWPA2[0m      
+[35m [0m       [35m04:D4:C4:C1:42:A0[0m  [35mRepublic Of Gamers Asus Wifi[0m  [35mInfra[0m  [35m9[0m     [35m405 Mbit/s[0m  [35m37[0m      [35m▂▄__[0m  [35mWPA2[0m      
+[36m [0m       [36mEC:A9:40:82:43:76[0m  [36mIZZI-0114[0m                     [36mInfra[0m  [36m161[0m   [36m540 Mbit/s[0m  [36m20[0m      [36m▂___[0m  [36mWPA2[0m      
